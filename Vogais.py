@@ -1,7 +1,7 @@
 from itertools import count
 
 minha_string=input("Diga alguma coisa: ")
-print('#'*10+'FIND'+'#'*10)
+print('~'*10+'FIND'+'~'*10)
 
 print('A: ')
 print(minha_string.find('a'))
